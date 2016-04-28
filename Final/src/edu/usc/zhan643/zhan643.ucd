@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editmodel:ClassDiagramEditModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:editmodel="editmodel.xmi" xmlns:options="options.xmi" name="zhan643" size="1329,1518" id="edu.usc.zhan643" metadata="uml2-1.0" initialized="true" tag="10" key="32303037303533312D31302046696E616C">
+  <children xsi:type="editmodel:ClassEditModel" name="AddComponent" location="50,542" size="164,70" id="edu.usc.zhan643/AddComponent" runTimeClassModel="AddComponent()">
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="119,18">
+      <children xsi:type="editmodel:MethodEditModel" name="AddComponent" id="edu.usc.zhan643/AddComponent#AddComponent()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="ComponentDetails" location="711,404" size="186,70" id="edu.usc.zhan643/ComponentDetails" runTimeClassModel="ComponentDetails()">
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="137,18">
+      <children xsi:type="editmodel:MethodEditModel" name="ComponentDetails" id="edu.usc.zhan643/ComponentDetails#ComponentDetails()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Connection2DB" location="50,404" size="165,88" id="edu.usc.zhan643/Connection2DB" runTimeClassModel="conn,Connection2DB()">
+    <children xsi:type="editmodel:CompartmentEditModel" size="120,18">
+      <children xsi:type="editmodel:AttributeEditModel" name="conn" id="edu.usc.zhan643/Connection2DB#conn"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="121,18">
+      <children xsi:type="editmodel:MethodEditModel" name="Connection2DB" id="edu.usc.zhan643/Connection2DB#Connection2DB()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="DealingWithSuggestions" location="805,50" size="235,70" id="edu.usc.zhan643/DealingWithSuggestions" runTimeClassModel="DealingWithSuggestions()">
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="173,18">
+      <children xsi:type="editmodel:MethodEditModel" name="DealingWithSuggestions" id="edu.usc.zhan643/DealingWithSuggestions#DealingWithSuggestions()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Main" location="947,404" size="147,88" id="edu.usc.zhan643/Main" runTimeClassModel="main([Ljava.lang.String;),c">
+    <children xsi:type="editmodel:CompartmentEditModel" size="124,18">
+      <children xsi:type="editmodel:AttributeEditModel" name="c" id="edu.usc.zhan643/Main#c"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="59,18">
+      <children xsi:type="editmodel:MethodEditModel" name="main" id="edu.usc.zhan643/Main#main([Ljava.lang.String;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="ManagerPage" location="465,542" size="148,70" id="edu.usc.zhan643/ManagerPage" runTimeClassModel="ManagerPage()">
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="111,18">
+      <children xsi:type="editmodel:MethodEditModel" name="ManagerPage" id="edu.usc.zhan643/ManagerPage#ManagerPage()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="NoNextSuggestion" location="472,404" size="189,70" id="edu.usc.zhan643/NoNextSuggestion" runTimeClassModel="NoNextSuggestion()">
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="139,18">
+      <children xsi:type="editmodel:MethodEditModel" name="NoNextSuggestion" id="edu.usc.zhan643/NoNextSuggestion#NoNextSuggestion()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Price_and_function_select" location="50,50" size="248,304" id="edu.usc.zhan643/Price_and_function_select" runTimeClassModel="uUserRate,pPrice,uPrice,uPicAddr,pPicAddr,pModel,num,setConnection(Ljava.sql.Connection;),pUserRate,uProRate,uModel,pProRate,userName,Price_and_function_select()">
+    <children xsi:type="editmodel:CompartmentEditModel" size="166,216">
+      <children xsi:type="editmodel:AttributeEditModel" name="num" id="edu.usc.zhan643/Price_and_function_select#num"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="pModel" id="edu.usc.zhan643/Price_and_function_select#pModel"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="pPicAddr" id="edu.usc.zhan643/Price_and_function_select#pPicAddr"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="pPrice" id="edu.usc.zhan643/Price_and_function_select#pPrice"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="pProRate" id="edu.usc.zhan643/Price_and_function_select#pProRate"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="pUserRate" id="edu.usc.zhan643/Price_and_function_select#pUserRate"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="uModel" id="edu.usc.zhan643/Price_and_function_select#uModel"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="uPicAddr" id="edu.usc.zhan643/Price_and_function_select#uPicAddr"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="uPrice" id="edu.usc.zhan643/Price_and_function_select#uPrice"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="uProRate" id="edu.usc.zhan643/Price_and_function_select#uProRate"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="uUserRate" id="edu.usc.zhan643/Price_and_function_select#uUserRate"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="userName" id="edu.usc.zhan643/Price_and_function_select#userName"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="183,36">
+      <children xsi:type="editmodel:MethodEditModel" name="Price_and_function_select" id="edu.usc.zhan643/Price_and_function_select#Price_and_function_select()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setConnection" id="edu.usc.zhan643/Price_and_function_select#setConnection(Ljava.sql.Connection;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="ProgramResultDetails" location="348,50" size="213,88" id="edu.usc.zhan643/ProgramResultDetails" runTimeClassModel="fillContent(I),ProgramResultDetails()">
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="157,36">
+      <children xsi:type="editmodel:MethodEditModel" name="ProgramResultDetails" id="edu.usc.zhan643/ProgramResultDetails#ProgramResultDetails()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="fillContent" id="edu.usc.zhan643/ProgramResultDetails#fillContent(I)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="ResultList" location="611,50" size="144,124" id="edu.usc.zhan643/ResultList" runTimeClassModel="ResultList(),setUserRec(IDD),setResult([Ljava.sql.ResultSet;[Ljava.sql.ResultSet;),setProgramRec(IDD)">
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="121,72">
+      <children xsi:type="editmodel:MethodEditModel" name="ResultList" id="edu.usc.zhan643/ResultList#ResultList()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setProgramRec" id="edu.usc.zhan643/ResultList#setProgramRec(IDD)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setResult" id="edu.usc.zhan643/ResultList#setResult([Ljava.sql.ResultSet;[Ljava.sql.ResultSet;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setUserRec" id="edu.usc.zhan643/ResultList#setUserRec(IDD)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="SignUpSuccess" location="1144,404" size="165,70" id="edu.usc.zhan643/SignUpSuccess" runTimeClassModel="SignUpSuccess()">
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="124,18">
+      <children xsi:type="editmodel:MethodEditModel" name="SignUpSuccess" id="edu.usc.zhan643/SignUpSuccess#SignUpSuccess()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="User_message" location="265,404" size="157,88" id="edu.usc.zhan643/User_message" runTimeClassModel="main([Ljava.lang.String;),User_message()">
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="118,36">
+      <children xsi:type="editmodel:MethodEditModel" name="User_message" id="edu.usc.zhan643/User_message#User_message()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="main" id="edu.usc.zhan643/User_message#main([Ljava.lang.String;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="UserSelection" location="264,542" size="151,70" id="edu.usc.zhan643/UserSelection" runTimeClassModel="UserSelection()">
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="112,18">
+      <children xsi:type="editmodel:MethodEditModel" name="UserSelection" id="edu.usc.zhan643/UserSelection#UserSelection()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="UserSignIn" location="849,542" size="128,70" id="edu.usc.zhan643/UserSignIn" runTimeClassModel="UserSignIn()">
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="94,18">
+      <children xsi:type="editmodel:MethodEditModel" name="UserSignIn" id="edu.usc.zhan643/UserSignIn#UserSignIn()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="UserSignUp" location="663,542" size="136,70" id="edu.usc.zhan643/UserSignUp" runTimeClassModel="UserSignUp()">
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="100,18">
+      <children xsi:type="editmodel:MethodEditModel" name="UserSignUp" id="edu.usc.zhan643/UserSignUp#UserSignUp()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Wrongpassword" location="1090,50" size="173,88" id="edu.usc.zhan643/Wrongpassword" runTimeClassModel="main([Ljava.lang.String;),Wrongpassword()">
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="124,36">
+      <children xsi:type="editmodel:MethodEditModel" name="Wrongpassword" id="edu.usc.zhan643/Wrongpassword#Wrongpassword()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="main" id="edu.usc.zhan643/Wrongpassword#main([Ljava.lang.String;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="0,0"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <diagramOptions xsi:type="options:ClassDiagramOptions" level="-1" showScope="InPackage" properties="wireOptions=1;Product=eUML2"/>
+  <boardSetting snapToGeometry="true" gridEnabled="true" gridSpacing="15,15" gridOrigin="0,0" rulerUnit="pixel" gridVisibility="false">
+    <leftRuler/>
+    <topRuler/>
+  </boardSetting>
+  <classDiagramPreferences xsi:type="editmodel:UMLClassDiagramPreference" showPopupBars="true" showConnectionHandles="true" attributeSorter="Natural" methodSorter="Natural" showClassStereotype="true" showPackageStereotype="true" showDependencyStereotype="true" showInterfaceStereotype="true" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+</editmodel:ClassDiagramEditModel>
